@@ -1,0 +1,19 @@
+[0] students-view grades -- x
+	- have bug in grades
+[1] programs-curriculum[view/add/edit]
+[1] subjects 
+[1] religion
+[1] grades
+[0] accounts
+	-cannot add and edit
+[1] nationality
+
+[1] Permissions for all
+--
+[1] grade
+[1] account
+[1] nationality
+[1] religion
+[1] subject
+[1] program
+[1] student
