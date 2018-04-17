@@ -8,9 +8,9 @@
 	//$conn = mysqli_connect(DB_SERVER, DB_USERNAME, DB_PASSWORD, DB_DATABASE);
 
 	$servername = "localhost";
-	$username = "encoder";
+	$username = "root";
 	$dbname = "school";
-	$password = 'encoder';
+	$password = "root";
 	
 	$conn = mysqli_connect($servername, $username, $password, $dbname);
 
