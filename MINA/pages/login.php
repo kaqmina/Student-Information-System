@@ -1,8 +1,8 @@
 <?php
   include('../commands/loginuser.php');
-  if(isset($_SESSION['login_user'])) {
-    header("Location: ../pages/home.php");
-  } 
+  //if(isset($_SESSION['login_user'])) {
+   // header("Location: ../pages/home.php");
+  //} 
 ?>
 <!DOCTYPE html>
 <html>
